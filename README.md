@@ -24,4 +24,4 @@ By default, the program uses the `data/test_cut.mp4` video as input. You can mod
 
 ## Maintainership and Contributing
 
-This project is a work in progress, and is not meant to be used in production environment. It is intended for learning purposes and is subject to change at any time. Better documentation will be added as the project progresses. If you have any suggestions for improvements or would like to contribute to the project, feel free to submit a pull request.
+This project is a work in progress and is not meant to be used in a production environment. It is intended for learning purposes and is subject to change at any time. Better documentation will be added as the project progresses. If you have any suggestions for improvements or would like to contribute to the project, feel free to submit a pull request.
